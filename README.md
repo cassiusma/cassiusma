@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cassiusma or Cassius Manuel. I'm working at CIBIV, in the Max Perutz Labs.
+- 👋 Hi, I’m @cassiusma or Cassius Manuel. I'm working at CIBIV, in the Max Perutz Labs (Vienna, Austria).
 - 👀 I’m interested in algorithms that combine discrete mathematics and analysis. In particular, I've been focused on Markov models of evolution and Maximum Likelihood Estimates.
 - 🌱 I’m currently learning Python and Mathematica competitively. 
 - 💞️ I’m looking to collaborate on designing algorithms based on nice mathematical objects.
