@@ -1,5 +1,6 @@
 - I’m @cassiusma or Cassius Manuel, doing mostly math, data analysis and bioinformatics.
--  My main research areas are probability and statistics. I've been focused on Markov models of evolution and Maximum Likelihood Estimation.
+-  My main research areas are probability and statistics.
+-  I've been focused on Markov models of evolution and Maximum Likelihood Estimation.
 - Coding in Python and Mathematica. 
 - 📫 E-mail: cassiusmanuelperez@gmail.com
 
